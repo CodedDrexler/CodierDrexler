@@ -11,7 +11,9 @@ Programming and science enthusiast.
 Currently learning new things. <br>
 <br>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CodierDrexler&show_icons=true&theme=vue-dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=CodierDrexler&show_icons=true&theme=vue-dark) <br> <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodierDrexler&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
 <hr>
