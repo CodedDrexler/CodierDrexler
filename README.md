@@ -6,7 +6,7 @@
 
 <p>
 
-Vinícius, 17 years old.<br>
+Vinícius, 18 years old.<br>
 Programming and science enthusiast. 
 Currently learning new things. <br>
 <br>
